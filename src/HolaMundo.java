@@ -6,5 +6,8 @@ public class HolaMundo {
         int b = 2;
 
         System.out.println("Resultado de a + b es : " + (a + b));
+
+        String nombre = "Manjula";
+        System.out.println("El nombre del gato es: " + nombre);
     }
 }
